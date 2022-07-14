@@ -1,0 +1,7 @@
+Run the .exe file to use!
+
+Haskell code in the .hs file.
+
+Still in development, but basic logic coded and working in terminal.
+
+Game needs a front end, and further backend development and balancing.
